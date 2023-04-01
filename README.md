@@ -11,7 +11,7 @@ You can configure the scraper by changing the url variable in the scrapeRecipes 
 You can also adjust the delay between each request by changing the getRandomDelay function in the code.
 
 # Dependencies
-axios
-cheerio
-fs
-util
+- axios
+- cheerio
+- fs
+- util
